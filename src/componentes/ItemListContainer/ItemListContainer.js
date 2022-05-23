@@ -1,6 +1,6 @@
 import React from "react"
 import ItemCount from "../ItemCount/ItemCount"
-import "../ItemListContainer/ItemListContainer.css"
+import "../ItemListContainer.js/ItemListContainer.css"
 
 
 const ItemListContainer = ({greeting}) => {
